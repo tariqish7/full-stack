@@ -1,0 +1,37 @@
+body{
+    background-color: aliceblue;
+}
+<style>
+h1{
+color: aqua;
+background-color: yellow;
+text-align: center;
+margin: 100px 0 100px 0;
+padding-top: 5px;
+padding-bottom: 10px;
+box-shadow: 5px 10px;
+border: 5px double green;
+}
+h2{
+    color: blue;
+    background-color: black;
+    text-align: center;
+}
+</style>
+
+
+div{
+    background-color: black;
+    width: 500px;
+    height: 400px;
+    margin-bottom: 5px;
+}
+.abc{
+    background-color: yellow;
+    width: 500px;
+    height: 400px;
+    margin-bottom: 5px;
+    background-image:url('../assets/l.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
